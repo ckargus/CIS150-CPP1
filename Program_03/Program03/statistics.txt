@@ -1,0 +1,4 @@
+The high score was 10 by hello world 845263
+The lowest score was 0 by hope for 845620
+The class average score was 6.66667
+The number of students processed was 15

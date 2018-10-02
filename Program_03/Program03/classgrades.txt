@@ -1,0 +1,15 @@
+556382 Curtis Kargus 20% F
+845023 out time 40% F
+845263 hello world 100% A
+845321 test tester 50% E
+845620 hope for 0% F
+846523 an AA 40% F
+365621 lets try 60% D
+845621 this again 60% D
+365214 trying tohard 70% C
+152325 only little 70% C
+158642 this will 90% A
+158612 hopefully workl 100% A
+415241 lets play 100% A
+415241 lets play 100% A
+415241 lets play 100% A

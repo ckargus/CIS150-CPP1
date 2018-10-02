@@ -1,0 +1,4 @@
+Max verse is: 18
+Min verse is: 8
+Poem character length is: 129
+Number of lines is: 10

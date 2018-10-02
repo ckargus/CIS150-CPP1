@@ -1,0 +1,4 @@
+Number of Students: 5
+Max grade was by: some guy 99.9
+Min grade was by: hashim something 60.2
+Class average: 81.12
